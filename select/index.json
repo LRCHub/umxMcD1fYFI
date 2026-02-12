@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "急進ムーンショット",
+  "base_artist": "Folicca",
+  "createdAt": "2026-02-12T10:43:01.228575Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "急進ムーンショット (feat. 可不)",
+      "artist": "Folicca",
+      "has_synced": false,
+      "path": "select/pl_01_急進ムーンショット_(feat._可不)_Folicca.txt"
+    }
+  ]
+}
